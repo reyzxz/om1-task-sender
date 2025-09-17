@@ -20,4 +20,4 @@ Jika ada masalah, lihat dokumentasi atau buka issue di repositori GitHub.
 Lisensi
 
 Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail lebih lanjut.
-🤖 OM1 Task Sender: Automating with style!
+# OM1 Task Sender: Automating with style!
